@@ -3,7 +3,6 @@
 <p align="center">
 🎓 B.Sc. Computer Science Graduate <br>
 💻 Full-Stack & Backend Developer <br>
-🚀 Passionate about Java, Spring Boot, Python, Distributed Systems and Cloud Technologies
 </p>
 
 ---
