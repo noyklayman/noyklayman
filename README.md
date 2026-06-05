@@ -10,11 +10,11 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science graduate with hands-on experience building backend systems, REST APIs, distributed applications, and full-stack projects.
+Computer Science graduate with experience in backend development, REST APIs, distributed systems, and full-stack applications.
 
-My technical background includes Java, Spring Boot, Python, PostgreSQL, Docker, Redis, MongoDB, Cassandra, Kafka, and Elasticsearch.
+Skilled in Java, Spring Boot, Python, PostgreSQL, Docker, Kafka, and modern database technologies.
 
-I enjoy solving complex problems, learning new technologies, and building scalable software solutions.
+Passionate about building scalable software and continuously learning new technologies.
 
 ---
 
