@@ -18,6 +18,14 @@ Passionate about building scalable software and continuously learning new techno
 
 ---
 
+## 📫 Contact
+
+- 📧 Email: [klaymannoy@gmail.com](mailto:klaymannoy@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/noy-klayman-74b746224
+- 🌍 Portfolio: https://noyklayman.netlify.app/
+
+---
+
 ## 💻 Tech Stack
 
 🔹 Java • Python • JavaScript • C • SQL
@@ -45,13 +53,3 @@ Spring Boot chatbot integrating external APIs and conversational workflows.
 
 #### 🔍 [Mini Search Engine](https://github.com/noyklayman/noyka-searchengine)
 Distributed search engine utilizing Kafka, Elasticsearch, and web crawling techniques.
-
----
-
-## 📫 Contact
-
-- 📧 Email: [klaymannoy@gmail.com](mailto:klaymannoy@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/noy-klayman-74b746224
-- 🌍 Portfolio: https://noyklayman.netlify.app/
-
----
