@@ -34,23 +34,17 @@ Passionate about building scalable software and continuously learning new techno
 
 ## 🚀 Featured Projects
 
-### 🔗 TinyURL
-
+### 🔗 [TinyURL](https://github.com/noyklayman/tinyUrl)
 Distributed URL shortening service built with Spring Boot, Redis, MongoDB, and Cassandra.
 
-➡️ **[View Project](https://github.com/noyklayman/tinyUrl)**
-
-### 🎓 Student Management System
-
+### 🎓 [Student Management System](https://github.com/noyklayman/StudentManagment)
 REST API built with Flask, JWT Authentication, PostgreSQL, Docker, and AWS S3 integration.
 
-### 🤖 Movie & Joke Chatbot
-
+### 🤖 [Movie & Joke Chatbot](https://github.com/noyklayman/noyka-chatbot)
 Spring Boot chatbot integrating external APIs and conversational workflows.
 
-### 🔍 Mini Search Engine
-
-Distributed search engine utilizing Kafka, Elasticsearch, web crawling, and asynchronous processing.
+### 🔍 [Mini Search Engine](https://github.com/noyklayman/noyka-searchengine)
+Distributed search engine utilizing Kafka, Elasticsearch, and web crawling techniques.
 
 ---
 
