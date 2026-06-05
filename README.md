@@ -18,40 +18,15 @@ Passionate about building scalable software and continuously learning new techno
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Tech Stack
 
-### Languages
+🔹 Java • Python • JavaScript • SQL
 
-* Java
-* Python
-* JavaScript
-* C
+🔹 Spring Boot • Flask • REST APIs
 
-### Backend
+🔹 PostgreSQL • MongoDB • Redis
 
-* Spring Boot
-* Flask
-* Node.js
-* REST APIs
-* JWT Authentication
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Cassandra
-* Redis
-
-### DevOps & Tools
-
-* Docker
-* Docker Compose
-* Git
-* GitHub
-* Linux
-* Maven
-* Postman
+🔹 Docker • Git • Kafka • Elasticsearch
 
 ---
 
