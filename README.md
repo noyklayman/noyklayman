@@ -55,5 +55,3 @@ Distributed search engine utilizing Kafka, Elasticsearch, and web crawling techn
 - 🌍 Portfolio: https://noyklayman.netlify.app/
 
 ---
-
-⭐ Always learning, building, and improving.
