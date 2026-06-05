@@ -38,6 +38,8 @@ Passionate about building scalable software and continuously learning new techno
 
 Distributed URL shortening service built with Spring Boot, Redis, MongoDB, and Cassandra.
 
+➡️ **[View Project](https://github.com/noyklayman/tinyUrl)**
+
 ### 🎓 Student Management System
 
 REST API built with Flask, JWT Authentication, PostgreSQL, Docker, and AWS S3 integration.
