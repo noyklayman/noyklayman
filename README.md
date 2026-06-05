@@ -26,8 +26,6 @@ Passionate about building scalable software and continuously learning new techno
 * Python
 * JavaScript
 * C
-* C#
-* SQL
 
 ### Backend
 
