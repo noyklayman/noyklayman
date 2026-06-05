@@ -77,11 +77,11 @@ Distributed search engine utilizing Kafka, Elasticsearch, web crawling, and asyn
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-* LinkedIn: [www.linkedin.com/in/noy-klayman-74b746224](http://www.linkedin.com/in/noy-klayman-74b746224)
-* GitHub: https://github.com/noyklayman
-* Portfolio: https://noyklayman.netlify.app/
+- 📧 Email: [klaymannoy@gmail.com](mailto:klaymannoy@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/noy-klayman-74b746224
+- 🌍 Portfolio: https://noyklayman.netlify.app/
 
 ---
 
