@@ -20,7 +20,7 @@ Passionate about building scalable software and continuously learning new techno
 
 ## 💻 Tech Stack
 
-🔹 Java • Python • JavaScript • SQL
+🔹 Java • Python • JavaScript • C • SQL
 
 🔹 Spring Boot • Flask • REST APIs
 
