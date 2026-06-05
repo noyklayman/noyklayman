@@ -22,6 +22,8 @@ Passionate about building scalable software and continuously learning new techno
 
 🔹 Java • Python • JavaScript • C • SQL
 
+🔹 React.js • HTML • CSS • PHP
+
 🔹 Spring Boot • Flask • REST APIs • Node.js
 
 🔹 PostgreSQL • MongoDB • Redis
