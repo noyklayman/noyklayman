@@ -20,7 +20,7 @@ Passionate about building scalable software and continuously learning new techno
 
 - 📧 Email: [klaymannoy@gmail.com](mailto:klaymannoy@gmail.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/noy-klayman-74b746224
-- 🌍 Portfolio: https://noyklayman.netlify.app/
+- 🌍 Portfolio: https://noyk.netlify.app/
 
 ---
 
