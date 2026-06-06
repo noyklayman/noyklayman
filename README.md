@@ -46,8 +46,8 @@ Distributed URL shortening service built with Spring Boot, Redis, MongoDB, and C
 #### 🎓 [Student Management System](https://github.com/noyklayman/StudentManagment)
 REST API built with Flask, JWT Authentication, PostgreSQL, Docker, and AWS S3 integration.
 
-#### 🤖 [Movie & Joke Chatbot](https://github.com/noyklayman/ChatBot.git)
+#### 🤖 [Chatbot](https://github.com/noyklayman/ChatBot.git)
 Spring Boot chatbot integrating external APIs and conversational workflows.
 
-#### 🔍 [Mini Search Engine](https://github.com/noyklayman/noyka-searchengine)
+#### 🔍 [Mini Search Engine](https://github.com/noyklayman/SearchEngine.git)
 Distributed search engine utilizing Kafka, Elasticsearch, and web crawling techniques.
