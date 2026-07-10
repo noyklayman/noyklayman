@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Noy Klayman 👋</h1>
 
 <p align="center">
-🎓 B.Sc. Computer Science Graduate | 💻 Full-Stack & Backend Developer  <br>
+🎓 B.Sc. Computer Science Graduate | 💻AI Engineer & Backend Developer  <br>
 </p>
 
 ---
